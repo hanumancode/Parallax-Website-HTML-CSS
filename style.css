@@ -33,3 +33,16 @@ body, html {
     min-height: 400px;
 }
 
+.section {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.section-light {
+    background: #f4f4f4;
+    color: #666;
+}
+
+.section-dark {
+    background: #282e34;
+    color: #ddd;
